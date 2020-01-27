@@ -129,17 +129,19 @@ Video Staccato: Repetetive changes in temporal dynamics.
 
 Experimental system:
 
-```     
+```
         Something that creates more questions than it answers
 
-                (Hans-Jörg Rheinberger, 
-                 who could be considered the German Bruno Latour, 
+                (Hans-Jörg Rheinberger,
+                 who could be considered the German Bruno Latour,
                  at least for the German Social Studies of Science
-                 community)```
+                 community)
+```
 
-```     
+```
         Transforming mediation of the sketches, plans, renderings
-                (Farias 2009)```
+                (Farias 2009)
+```
 
 
 Visual languages as rethinking devices.
