@@ -69,9 +69,9 @@ What a contrast to the dense, fluent, and tangible experience of watching somebo
 
 What a lack of material qualities!
 
-*****
-
 Human cogntion in the design activity requires two kinds of understanding: theoretical and tangible.
+
+Would it be possible to incorporate the perfectly opposed requirements into an existing (physical) thing/system and then work with the resulting paradox?
 
 *****
 
@@ -79,8 +79,6 @@ What if there was no about-ness?
 
 Would it be possible, not to formulate theories _about_ the visual/graphical nature of the design practice, but -- more fundamental --
 to formulate the theories themselves _in_ a graphical way?
-
-Would it be possible to incorporate the perfectly opposed requirements into an existing (physical) thing/system and then work with the resulting paradox?
 
 *****
 
