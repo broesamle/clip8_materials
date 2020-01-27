@@ -82,13 +82,13 @@ to formulate the theories themselves _in_ a graphical way?
 
 *****
 
-Both examples:
-    + are centred around some visual notation system,
-    + get developped step-by-step `on site`.
+Examples
+--------
+
+Both presented examples are centred around some visual notation system which gets developped step-by-step `on site`.
 
 
-Example 1: Graphical transcription language for design practice
----------------------------------------------------------------
+### Example 1: Graphical transcription of design activity
 
 Objective: Develop a set of rules that would make it possible to  reproduce the architectural design process in the computer.
 
@@ -99,8 +99,7 @@ Objective: Develop a set of rules that would make it possible to  reproduce the 
 + Repetetive revisions of the (graphical) notation scheme (in response how the researcher changes her/his view on the domain under investigation).
 
 
-Example 2: `clip_8`
--------------------
+### Example 2: `clip_8`
 
 A fully visual, shape-based programming language:
     + subvert the blackbox principle
