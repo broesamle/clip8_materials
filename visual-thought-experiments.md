@@ -146,5 +146,4 @@ Experimental system:
 
 Visual languages as rethinking devices.
 
-Develop a visual languages as a conceptual projector:
-** Design of your future way of thinking! **
+Develop a visual languages as a conceptual projector: *Design of your future way of thinking!*
