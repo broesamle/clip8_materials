@@ -59,22 +59,30 @@ about-ness
 The computational theory of the mind is implicitly underlying most cognitive approaches.
 The human mind thinks *about* the world.
 It is conceptualised as a separate entity outside the world:
-A long way between thought and experience, data and display, interface and user, mind and world. 
+A long way between thought and experience, data and display, interface and user, mind and world.
 
 The mind works like a computer.
 
-**What a contrast to the dense, fluent, and tangible experience of watching somebody engaged in conceptual sketching!**
+*****
 
-** What a lack of material qualities! **
+What a contrast to the dense, fluent, and tangible experience of watching somebody who is engaged in conceptual sketching!
 
-** Human cogntion in the design activity requires two kinds of understanding: theoretical and tangible **
+What a lack of material qualities!
 
-Would it be possible, not to formulate theories _about_ the visual/graphical nature of the design practice, but, more fundamental,
-** to formulate the theories themselves in a graphical way? **
+*****
 
-** Would it be possible to incorporate the perfectly opposed requirements into an existing (physical) thing/system and then work with the resulting paradox? **
+Human cogntion in the design activity requires two kinds of understanding: theoretical and tangible.
 
-** What if there was no about-ness? **
+*****
+
+What if there was no about-ness?
+
+Would it be possible, not to formulate theories _about_ the visual/graphical nature of the design practice, but -- more fundamental --
+to formulate the theories themselves _in_ a graphical way?
+
+Would it be possible to incorporate the perfectly opposed requirements into an existing (physical) thing/system and then work with the resulting paradox?
+
+*****
 
 Both examples:
     + are centred around some visual notation system,
