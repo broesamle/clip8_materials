@@ -63,7 +63,7 @@ A long way between thought and experience, data and display, interface and user,
 
 The mind works like a computer.
 
-** What a contrast to the dense, fluent, and tangible experience of watching somebody engaged in conceptual sketching! **
+**What a contrast to the dense, fluent, and tangible experience of watching somebody engaged in conceptual sketching!**
 
 ** What a lack of material qualities! **
 
