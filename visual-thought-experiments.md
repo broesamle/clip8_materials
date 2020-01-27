@@ -132,7 +132,10 @@ Experimental system:
 ```     
         Something that creates more questions than it answers
 
-                (Hans-Jörg Rheinberger, who could be considered the German Bruno Latour, at least for the German Social Studies of Science  community)```
+                (Hans-Jörg Rheinberger, 
+                 who could be considered the German Bruno Latour, 
+                 at least for the German Social Studies of Science
+                 community)```
 
 ```     
         Transforming mediation of the sketches, plans, renderings
