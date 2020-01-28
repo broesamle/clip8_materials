@@ -98,8 +98,15 @@ Objective: Develop a set of rules that would make it possible to  reproduce the 
 
 + Repetetive revisions of the (graphical) notation scheme (in response how the researcher changes her/his view on the domain under investigation).
 
++ Embedding in an activity, namely observing and recording/drawing.
+
 
 ### Example 2: `clip_8`
+
+Would it be possible to formulate theories _in_ a graphical way?
+
+Would it be possible to do programming work by drawing the programs in a CAD software?
+
 
 A fully visual, shape-based programming language:
     + subvert the blackbox principle
