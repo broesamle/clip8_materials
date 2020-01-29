@@ -7,8 +7,8 @@ Copyright (c) 2020 Martin Brösamle
 
 based on a presentation/demo given at the [13th SIG Design Theory Paris Workshop](https://designtheory.sciencesconf.org/)
 
-[clip_8](https://github.com/broesamle/clip_8)
-can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink the principles of information technology.
+[`clip_8`](https://github.com/broesamle/clip_8)
+can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink established principles of information technology.
 
 Its radical visual approach over-complicates even simple programs, which renders it technically useless.
 This is an essential ingredient of its paradox beauty. Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
