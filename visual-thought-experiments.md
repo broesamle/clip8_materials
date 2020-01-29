@@ -11,21 +11,20 @@ based on a presentation/demo given at the [13th SIG Design Theory Paris Workshop
 can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink established principles of information technology.
 
 Its radical visual approach over-complicates even simple programs, which renders it technically useless.
-This is an essential ingredient of its paradox beauty. Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
+This is an essential ingredient of its paradox beauty. Hans-Jörg Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
 
-`clip_8` combines standard programming techniques with fundamentally different, visual, media-centred,  [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices.
+`clip_8` combines standard programming techniques with fundamentally different, visual, media-centred,  [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices (Nigel Cross).
 
-The activity of designing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a link to an [earlier
+The activity of developing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a link to an [earlier
 research project](https://doi.org/10.1016/j.destud.2018.01.002): Based on video recordings of architectural design sessions we transcribed sketching activity in architectural design, relying on a graphical notation system.
 
 
 Gestures and sketches in early design
 -------------------------------------
 
-For a cognitive scientist without experience in a design-related field, one of the most striking observations about architectural design practice is the predominance of graphic thinking ([Paul Laseau](https://www.researchgate.net/scientific-contributions/56450352_Paul_Laseau))
-relying on a variety of external media.
+For a cognitive scientist without experience in a design-related field, one of the most striking observations about architectural design practice is the predominance of *graphic thinking* relying on a variety of external media ([Paul Laseau](https://www.researchgate.net/scientific-contributions/56450352_Paul_Laseau)).
 
-One can literally see the designer's ideas evolve [in  dialogue  with  their  sketches](https://www.doi.org/10.1016/0142-694X(94)00009-3)
+One can literally see the designer's ideas evolve [in  dialogue  with  their  sketches](https://www.doi.org/10.1016/0142-694X(94)00009-3) (Gabriela Goldschmidt).
 
 
 Invisibility
@@ -64,16 +63,14 @@ visible    invisible
 Blackbox.
 
 
-about-ness
-----------
+*about*-ness
+------------
 
-The computational theory of the mind is implicitly underlying most cognitive science approaches (cf. [V. Goel](https://doi.org/10.1016/0364-0213(92)90038-V)): The mind works like a computer. The human mind thinks *about* the world.
-
-It is conceptualised as a separate entity outside the world. This view puts a long way between thought and experience, data and display, interface and user, mind and world.
+The computational theory of the mind is implicitly underlying most cognitive science approaches (cf. [V. Goel](https://doi.org/10.1016/0364-0213(92)90038-V)): The mind works like a computer. The human mind thinks *about* the world. The mind is conceptualised as a separate entity outside the world. This view puts a long way between thought and experience, data and display, interface and user, mind and world.
 
 Design processes may be modeled in this framework but the model will lack the material qualities. It will have to to abstract away the dense, fluent, and tangible experience of sketching.
 
-Human cogntion in the design activity requires two kinds of understanding: theoretical and tangible.
+The subject of human cognition in the design activity requires not only theoretical but also tangible modes of understanding.
 
 
 What inspired `clip_8`
