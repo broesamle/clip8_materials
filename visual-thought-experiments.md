@@ -1,7 +1,7 @@
 
 
-Visual Thought Experiments
-==========================
+`clip_8`: a Visual Thought Experiment
+=====================================
 
 Copyright (c) 2020 Martin Brösamle
 
@@ -10,12 +10,13 @@ based on a presentation/demo given at the [13th SIG Design Theory Paris Workshop
 [clip_8](https://github.com/broesamle/clip_8)
 can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink the principles of information technology.
 
-`clip_8` combines established computational approaches with more visual, media-centred [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices.
+Its radical visual approach over-complicates even simple programs, which renders it technically useless.
+This is an essential ingredient of its paradox beauty. Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
 
-The activity of designing `clip_8` can be characterised as a dialogue with a visible form aiming for a tangible materialisation of computation.
+`clip_8` combines standard programming techniques with fundamentally different, visual, media-centred,  [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices.
 
-The cycle of inventions, revisions, and refinements made to the graphical notation system provides a link to an [earlier
-research project](https://doi.org/10.1016/j.destud.2018.01.002). Based on video recordings of architectural design sessions we transcribed sketching activity in architectural design, relying on a graphical notation system.
+The activity of designing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a link to an [earlier
+research project](https://doi.org/10.1016/j.destud.2018.01.002): Based on video recordings of architectural design sessions we transcribed sketching activity in architectural design, relying on a graphical notation system.
 
 
 Gestures and sketches in early design
@@ -110,13 +111,9 @@ Bring the supposedly incompatible approaches (to computation) together in an exi
 This artifact can play a role in the *transforming mediation of the sketches, plans, renderings*, as [Farias](https://www.euroethno.hu-berlin.de/de/institut/personen/farias) has once described the architectural design process (cf. also mediating artifacts).
 
 
-[Closing time]("https://en.wikipedia.org/wiki/Closing_Time_(album)")
+[Closing time](https://en.wikipedia.org/wiki/File:Tom_Waits_-_Closing_Time.jpg)
 ------------
 
-+ Subvert the blackbox principle: *What You see was what You compute*
-
-+ Poetic and completely useless
-
-+ Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers
+Subvert the blackbox principle: *What You see was what You compute*
 
 Visual languages as rethinking devices: Develop a visual language so that it projects *a future way of seing and thinking*.
