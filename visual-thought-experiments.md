@@ -10,11 +10,12 @@ based on a presentation/demo given at the [13th SIG Design Theory Paris Workshop
 [clip_8](https://github.com/broesamle/clip_8)
 can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink the principles of information technology.
 
-`clip_8` combines established computational techniques with more visual, media-centred [designerly ways](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) of working.
+`clip_8` combines established computational approaches with more visual, media-centred [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices.
 
-The activity of designing `clip_8` can be characterised as developing a visible form that materialises an intuitive account of computation.
-The cycle of inventions, revisions, and refinements made to the graphical notation system provides a theoretical link to an earlier ethnographical
-[research project on sketching in architectural design](https://doi.org/10.1016/j.destud.2018.01.002).
+The activity of designing `clip_8` can be characterised as a dialogue with a visible form aiming for a tangible materialisation of computation.
+
+The cycle of inventions, revisions, and refinements made to the graphical notation system provides a link to an [earlier
+research project](https://doi.org/10.1016/j.destud.2018.01.002). Based on video recordings of architectural design sessions we transcribed sketching activity in architectural design, relying on a graphical notation system.
 
 
 Gestures and sketches in early design
@@ -105,8 +106,7 @@ Objective: Develop a set of rules that would make it possible to  reproduce the 
 
 + Video staccato
 
-+ Observation in dialog with a graphical notation
-
++
 + Repetetive revisions of the (graphical) notation scheme (in response how the researcher changes her/his view on the domain under investigation).
 
 + Embedding in an activity, namely observing and recording/drawing.
