@@ -10,13 +10,13 @@ based on a presentation/demo given at the [13th SIG Design Theory Paris Workshop
 [`clip_8`](https://github.com/broesamle/clip_8)
 can be described as an experimental *visual, shape-based programming language* whose main purpose is to rethink established principles of information technology.
 
-Its radical visual approach over-complicates even simple programs, which renders it technically useless.
-This is an essential ingredient of its paradox beauty. Hans-Jörg Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
+Its radically visual approach over-complicates even simple programs, which renders it technically useless.
+This is an essential ingredient of its paradox beauty. Hans-Jörg Rheinberger would propably call it an [Experimental System](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers.
 
 `clip_8` combines standard programming techniques with fundamentally different, visual, media-centred,  [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices (Nigel Cross).
 
-The activity of developing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a link to an [earlier
-research project](https://doi.org/10.1016/j.destud.2018.01.002): Based on video recordings of architectural design sessions we transcribed sketching activity in architectural design, relying on a graphical notation system.
+The activity of developing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a theoretical link to an [earlier
+research project](https://doi.org/10.1016/j.destud.2018.01.002): In order to transcribe video recordings of architectural design sessions we developed a graphical notation system for gesture and sketching activity of our participants.
 
 
 Gestures and sketches in early design
@@ -76,15 +76,21 @@ The subject of human cognition in the design activity requires not only theoreti
 What inspired `clip_8`
 ----------------------
 
-Would it be possible to refrain from formulating abstract theories _about_ the graphical aspecs of design, but rather to formulate the theories themselves *in a graphical way*?
-
 What if there was no about-ness?
 
-Would it be possible to implement a computational system that has *designerly* characteristics?
+Would it be possible to refrain from formulating abstract theories _about_ the graphical aspecs of design, but rather to formulate the theories themselves *in a graphical way*?
+
+Would it be possible to implement a computational system that has *designerly* characteristics at the core of its implementation?
+
+Can we de-abstract every representation and make it concrete, visible, material?
 
 Can we flatten the representational distance in symbol processing systems?
 
-Can we do computation with entities that just represent themselves?
+Can we make the symbols identical with what they refer to?
+
+Can we create give them all the qalities they are representing?
+
+Can we make symbols that represent themselves?
 
 
 A shape-based programming language
@@ -98,19 +104,22 @@ A shape-based programming language
 
 + Every step of program execution can be watched.
 
+The [`clip_8` demo session screenshots]() give an example.
+
+
 Strategy
 --------
 
 Combine the uncombinable.
 
-Bring the supposedly incompatible approaches (to computation) together in an existing artifact (clip_8).
+Bring the supposedly incompatible approaches (to computation) together within an existing artifact (`clip_8`).
 
-This artifact can play a role in the *transforming mediation of the sketches, plans, renderings*, as [Farias](https://www.euroethno.hu-berlin.de/de/institut/personen/farias) has once described the architectural design process (cf. also mediating artifacts).
+This artifact can play a role in the *transforming mediation of the sketches, plans, renderings*, as [Ignacio Farías](https://www.euroethno.hu-berlin.de/de/institut/personen/farias) has once described the architectural design process (cf. also mediating artifacts).
 
 
 [Closing time](https://en.wikipedia.org/wiki/File:Tom_Waits_-_Closing_Time.jpg)
 ------------
 
-Subvert the blackbox principle: *What You see was what You compute*
+Subvert the blackbox principle: *What you see is what you compute*.
 
-Visual languages as rethinking devices: Develop a visual language so that it projects *a future way of seing and thinking*.
+Visual languages as rethinking devices: Develop a visual language so that it projects *your future way of seing and thinking*.
