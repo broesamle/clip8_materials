@@ -70,93 +70,53 @@ The computational theory of the mind is implicitly underlying most cognitive sci
 
 It is conceptualised as a separate entity outside the world. This view puts a long way between thought and experience, data and display, interface and user, mind and world.
 
-*****
-
-What a contrast to the dense, fluent, and tangible experience of watching somebody who is engaged in conceptual sketching!
-
-What a lack of material qualities!
+Design processes may be modeled in this framework but the model will lack the material qualities. It will have to to abstract away the dense, fluent, and tangible experience of sketching.
 
 Human cogntion in the design activity requires two kinds of understanding: theoretical and tangible.
 
-Would it be possible to incorporate the perfectly opposed requirements into an existing (physical) thing/system and then work with the resulting paradox?
 
-*****
+What inspired `clip_8`
+----------------------
+
+Would it be possible to refrain from formulating abstract theories _about_ the graphical aspecs of design, but rather to formulate the theories themselves *in a graphical way*?
 
 What if there was no about-ness?
 
-Would it be possible, not to formulate theories _about_ the visual/graphical nature of the design practice, but -- more fundamental --
-to formulate the theories themselves _in_ a graphical way?
+Would it be possible to implement a computational system that has *designerly* characteristics?
 
-*****
+Can we flatten the representational distance in symbol processing systems?
 
-Examples
+Can we do computation with entities that just represent themselves?
+
+
+A shape-based programming language
+----------------------------------
+
++ Draw computer programs in CAD/graphics software
+
++ SVG files define graphical shapes that formulate instructions and data
+
++ Every aspect of program semantics, and data can be visually inspected.
+
++ Every step of program execution can be watched.
+
+Strategy
 --------
 
-Both presented examples are centred around some visual notation system which gets developped step-by-step `on site`.
+Combine the uncombinable.
+
+Bring the supposedly incompatible approaches (to computation) together in an existing artifact (clip_8).
+
+This artifact can play a role in the *transforming mediation of the sketches, plans, renderings*, as [Farias](https://www.euroethno.hu-berlin.de/de/institut/personen/farias) has once described the architectural design process (cf. also mediating artifacts).
 
 
-### Example 1: Graphical transcription of design activity
-
-Objective: Develop a set of rules that would make it possible to  reproduce the architectural design process in the computer.
-
-+ Video staccato
-
-+
-+ Repetetive revisions of the (graphical) notation scheme (in response how the researcher changes her/his view on the domain under investigation).
-
-+ Embedding in an activity, namely observing and recording/drawing.
-
-
-### Example 2: `clip_8`
-
-Would it be possible to formulate theories _in_ a graphical way?
-
-Would it be possible to do programming work by drawing the programs in a CAD software?
-
-
-A fully visual, shape-based programming language:
-    + subvert the blackbox principle
-    + Every step of program execution can be watched.
-    + What I see was what I compute.
-    + Poetic and completely useless
-
-
-Closing time
+[Closing time]("https://en.wikipedia.org/wiki/Closing_Time_(album)")
 ------------
 
-Visual thought experiment.
++ Subvert the blackbox principle: *What You see was what You compute*
 
-Combine the incombinable.
++ Poetic and completely useless
 
-Give computation a form:
-    + De-abstract/rematerialise it.
-    + Subvert arbitrarity by radical visualisation.
-    + Everything can be seen, the data, the instructions.
-    + No black box.
-    + The process becomes terribly cumbersome
-    + Which, in turn, is the foundation of its aesthetics
++ Rheinberger would propably call it an [Experimental system](https://www.worldcat.org/title/toward-a-history-of-epistemic-things-synthesizing-proteins-in-the-test-tube/oclc/35741858): Something that creates more questions than it answers
 
-Video Staccato: Repetetive changes in temporal dynamics.
-    + fluent, volatile process
-    + static, eternal records
-
-Experimental system:
-
-```
-        Something that creates more questions than it answers
-
-                (Hans-Jörg Rheinberger,
-                 who could be considered the German Bruno Latour,
-                 at least for the German Social Studies of Science
-                 community)
-```
-
-```
-        Transforming mediation of the sketches, plans, renderings
-                (Farias 2009)
-```
-
-
-Visual languages as rethinking devices.
-
-Develop a visual languages as a conceptual projector: *Design of your future way of thinking!*
+Visual languages as rethinking devices: Develop a visual language so that it projects *a future way of seing and thinking*.
