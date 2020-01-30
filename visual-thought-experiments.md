@@ -22,7 +22,7 @@ research project](https://doi.org/10.1016/j.destud.2018.01.002): In order to tra
 Gestures and sketches in early design
 -------------------------------------
 
-For a cognitive scientist without experience in a design-related field, one of the most striking observations about architectural design practice is the predominance of *graphic thinking* relying on a variety of external media ([Paul Laseau](https://www.researchgate.net/scientific-contributions/56450352_Paul_Laseau)).
+For a cognitive scientist without experience in a design-related field, one of the most striking observations about architectural design practice is the predominance of [graphic thinking](https://www.researchgate.net/scientific-contributions/56450352_Paul_Laseau) relying on a variety of external media (Paul Laseau).
 
 One can literally see the designer's ideas evolve [in  dialogue  with  their  sketches](https://www.doi.org/10.1016/0142-694X(94)00009-3) (Gabriela Goldschmidt).
 
@@ -76,19 +76,19 @@ The subject of human cognition in the design activity requires not only theoreti
 What inspired `clip_8`
 ----------------------
 
-What if there was no about-ness?
+What if there was no *about*-ness?
 
-Would it be possible to refrain from formulating abstract theories _about_ the graphical aspecs of design, but rather to formulate the theories themselves *in a graphical way*?
+Would it be possible to avoid abstract theories _about_ the graphical aspecs of design, but rather to formulate theories *in a graphical way* themselves?
 
-Would it be possible to implement a computational system that has *designerly* characteristics at the core of its implementation?
+Would it be possible to implement a computational system that has *designerly* characteristics *at the core* of its implementation?
 
-Can we de-abstract every representation and make it concrete, visible, material?
+Can we de-abstract every representation and make it concrete, visible, with material qualities?
 
 Can we flatten the representational distance in symbol processing systems?
 
 Can we make the symbols identical with what they refer to?
 
-Can we create give them all the qalities they are representing?
+Can we give them all the qalities they are representing?
 
 Can we make symbols that represent themselves?
 
@@ -98,13 +98,13 @@ A shape-based programming language
 
 + Draw computer programs in CAD/graphics software
 
-+ SVG files define graphical shapes that formulate instructions and data
++ SVG files define graphical shapes, which formulate instructions *and* data
 
 + Every aspect of program semantics, and data can be visually inspected.
 
 + Every step of program execution can be watched.
 
-For a first impression, please download the [`clip_8` demo session screenshots (PDF)](https://github.com/broesamle/clip8_materials/raw/master/demo-session-screenshots.pdf).
+For a first impression, please download the [`clip_8` demo session screenshots (PDF)](https://github.com/broesamle/clip8_materials/raw/master/demo-session-screenshots.pdf) slideshow.
 
 
 Strategy
@@ -120,6 +120,6 @@ This artifact can play a role in the *transforming mediation of the sketches, pl
 [Closing time](https://en.wikipedia.org/wiki/File:Tom_Waits_-_Closing_Time.jpg)
 ------------
 
-Subvert the blackbox principle: *What you see is what you compute*.
+Subvert the blackbox principle: [What you see is what you compute](https://en.wikipedia.org/wiki/WYSIWYG).
 
-Visual languages as rethinking devices: Develop a visual language so that it projects *your future way of seing and thinking*.
+Visual languages as rethinking devices: Design a visual language so as to *project your future way of seing and thinking*.
