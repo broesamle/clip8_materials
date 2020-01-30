@@ -1,7 +1,7 @@
 
 
-`clip_8`: a Visual Thought Experiment
-=====================================
+`clip_8` as a Visual Thought Experiment
+=======================================
 
 Copyright (c) 2020 Martin Brösamle
 
@@ -15,7 +15,7 @@ This is an essential ingredient of its paradox beauty. Hans-Jörg Rheinberger wo
 
 `clip_8` combines standard programming techniques with fundamentally different, visual, media-centred,  [designerly](https://doi.org/10.1016%2F0142-694X%2882%2990040-0) work practices (Nigel Cross).
 
-The activity of developing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to the graphical notation provides a theoretical link to an [earlier
+The activity of developing `clip_8` can be characterised as a dialogue with a visible form, striving for a tangible materialisation of computation. The cycle of inventions, revisions, and refinements made to its graphical notation recalls an [earlier
 research project](https://doi.org/10.1016/j.destud.2018.01.002): In order to transcribe video recordings of architectural design sessions we developed a graphical notation system for gesture and sketching activity of our participants.
 
 
