@@ -104,7 +104,7 @@ A shape-based programming language
 
 + Every step of program execution can be watched.
 
-The [`clip_8` demo session screenshots]() give an example.
+For a first impression, please download the [`clip_8` demo session screenshots (PDF)](https://github.com/broesamle/clip8_materials/raw/master/demo-session-screenshots.pdf).
 
 
 Strategy
